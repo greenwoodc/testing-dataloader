@@ -1,0 +1,41 @@
+## build output
+target/
+
+## eclipse files
+.project
+.classpath
+.settings/
+
+## Mac directory files
+.DS_Store
+Thumbs.db
+
+## IntelliJ Files
+.idea
+*.ipr
+*.iws
+*.iml
+/test/
+/lib/
+/classes/
+/bin/
+
+#swpfiles
+config.properties~
+*.csr
+*.key
+
+#python files
+__pycache__/
+
+#command line editor working and backup files
+*.swp
+*.*~
+
+# local-proj-repo files
+local-proj-repo/classworlds/
+local-proj-repo/com/
+local-proj-repo/junit/
+local-proj-repo/org/
+pom.xml.save
+pom.xml.versionsBackup
